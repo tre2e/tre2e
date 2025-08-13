@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @tre2e
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning linux, Java, react
-- 📫 QQ:3296847609 or Wechat:Hinan_boy
-- 😁 I'm currntly attending in University of Shanghai for Secience and Technology(just a rugular one:>)
-- 🎶 I love listening music
-  
+# 👋 Hi there, I'm @tre2e
+
+Welcome to my GitHub profile!
+
+## 🚀 About Me
+- 🎓 Student at University of Shanghai for Science and Technology (just a regular one 😊)
+- 💻 Passionate about computers, technology, and coding
+- 🌱 Currently learning **Linux**, **Java**, and **React**
+- 🎶 Music lover — always exploring new tunes while coding
+
+## 🌟 What I'm Working On
+- Building projects and sharpening my skills in **Java** and **React**
+- Exploring the world of **Linux** and open source
+
+## 📬 Contact Me
+- QQ: `3296847609`
+- WeChat: `Hinan_boy`
+
+---
+
+Thanks for visiting! Feel free to connect or check out my repositories 🚀
