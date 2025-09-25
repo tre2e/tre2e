@@ -19,6 +19,7 @@ Welcome to my GitHub profile!
 ---
 
 Thanks for visiting! Feel free to connect or check out my repositories 🚀
-
+<div align="center">
 ##  ✍️ My Blogs
 [![cnblogs.com/tre2e](https://img.shields.io/badge/cnblogs.com/tre2e-FF6B6B?style=for-the-badge)](https://cnblogs.com/tre2e)
+</div>
